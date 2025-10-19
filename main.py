@@ -46,7 +46,7 @@ async def on_member_join(member):
         title="🎉 Welcome To Eternity MC !",
         description=(
             "Welcome Player!\n"
-            f"Checkout <#{WELCOME_CHANNEL_ID}>\n"
+            f"Checkout <#1410215493339447477>\n"
             "And Hop On Server!"
         ),
         color=0x9b59b6
